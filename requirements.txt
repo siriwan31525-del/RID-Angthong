@@ -1,0 +1,35 @@
+# Core
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+
+# Data Processing
+pandas==2.1.1
+numpy==1.24.3
+
+# Database
+sqlite3
+
+# Dashboard
+streamlit==1.28.1
+plotly==5.18.0
+altair==5.1.2
+
+# Scheduling
+schedule==1.2.0
+apscheduler==3.10.4
+
+# Environment & Config
+python-dotenv==1.0.0
+pyyaml==6.0.1
+
+# Testing
+pytest==7.4.2
+pytest-cov==4.1.0
+
+# Optional: for advanced scraping
+selenium==4.16.0
+webdriver-manager==4.0.1
+
+# Notification
+requests-toolbelt==1.0.0
